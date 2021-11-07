@@ -5,12 +5,12 @@
 Cliente-Servidor y Consultas básicas
 - Generado: Borja
 - Verificada: Ángela
-- Comunicada: Sofía
-[LaAplicacionAlInicio.zip](https://drive.google.com/file/d/1CGzKUEpYcVsDYQSZ07Y_-aM7VfKHawRY/view "LaAplicacionAlInicio.zip")
+- Comunicada: Sofia
+(https://drive.google.com/file/d/1Ojok-Sv_KVu59vOHzddnLpKWsVFwJyLo/view?usp=sharing)
 
 #### Versión 2 del proyecto.
 
 Servidor concurrente, Lista de conectados y Exclusión mutua
 - Generada: Ángela
-- Verificada: Sofía
+- Verificada: Sofia
 - Comunicado: Arnau
