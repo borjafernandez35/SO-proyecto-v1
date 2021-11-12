@@ -4,9 +4,9 @@
 
 Cliente-Servidor y Consultas básicas
 - Generado: Borja
-- Verificada: Ángela (Todo funciona correctamente si cambio la IP ya que no tenemos la misma)
+- Verificada: Ángela: Todo funciona correctamente si cambio la IP ya que no tenemos la misma.
 - Comunicada: Sofía
-(https://drive.google.com/file/d/1Ojok-Sv_KVu59vOHzddnLpKWsVFwJyLo/view?usp=sharing)
+https://drive.google.com/file/d/1Ojok-Sv_KVu59vOHzddnLpKWsVFwJyLo/view?usp=sharing
 
 #### Versión 2 del proyecto.
 
