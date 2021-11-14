@@ -21,5 +21,5 @@ https://drive.google.com/drive/u/0/folders/1c9RydKCCvX5TqRi8YlTE5PYC_Qldvyn6
 Lista de conectados como notificación
 - Generada: Sofia
 - Verificado: Arnau
-- Comunicado: Borja
-- https://drive.google.com/drive/u/0/folders/1I1KweZyQ5tBTt26-vXVGx6vsF0ihmrP1
+- Comunicado: Borja 
+https://drive.google.com/drive/u/0/folders/1I1KweZyQ5tBTt26-vXVGx6vsF0ihmrP1
